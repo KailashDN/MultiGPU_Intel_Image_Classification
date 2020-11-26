@@ -340,4 +340,4 @@ def model_pipeline(act_function, Islog:False, num_GPU):
     execution_time(model_start_time, model_end_time)
 
 
-model_pipeline('relu', True, 1)
+model_pipeline('relu', True, 3)
